@@ -1,4 +1,6 @@
 # Python Strike
+![Python](https://img.shields.io/badge/Python-3.6+-blue?logo=python&logoColor=yellow&style=plastic)
+![Pygame](https://img.shields.io/badge/Pygame-2.0+-yellow?logo=pygame&logoColor=yellow&style=plastic)
 
 A top-down first-person shooter (FPS) game built with Python and Pygame. Experience intense combat against waves of enemies with different behaviors and abilities.
 
