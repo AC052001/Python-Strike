@@ -4,6 +4,8 @@
 
 A top-down first-person shooter (FPS) game built with Python and Pygame. Experience intense combat against waves of enemies with different behaviors and abilities.
 
+<img width="806" height="633" alt="p1" src="https://github.com/user-attachments/assets/2e52d095-5d6e-4c01-b663-940820b17aa8" />
+
 ## Game Features
 
 - **Dynamic Enemy Types**: Fight against 4 unique enemy types:
@@ -41,6 +43,8 @@ pip install -r requirements.txt
 ```bash
 python python_strike.py
 ```
+
+<img width="802" height="631" alt="p2" src="https://github.com/user-attachments/assets/2cf79ed0-bb3f-43d9-85f0-d419218a2d7a" />
 
 ## How to Play
 
@@ -108,6 +112,8 @@ All sound effects are generated programmatically:
 - Reload sounds
 - Power-up sounds
 - Wave start sounds
+
+<img width="800" height="631" alt="p3" src="https://github.com/user-attachments/assets/0286f5ca-5c53-401f-ba9e-13ffa5d15b81" />
 
 ## Dependencies
 
